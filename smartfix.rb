@@ -3,8 +3,8 @@
 class Smartfix < Formula
   desc "Intelligent commit squasher"
   homepage "https://github.com/mluders/smartfix"
-  url "https://github.com/mluders/smartfix/archive/v1.0.0.tar.gz"
-  sha256 "7659046e656aab309f5ec119a02c622a4f026c35a9730f0fca98ce36e8f8d989"
+  url "https://github.com/mluders/smartfix/archive/v1.0.1.tar.gz"
+  sha256 "4aeca4b667c97278f4b9ceb6fc3bfc812ef8fa1c3ca892aa65a22623c8f5fe0c"
   license ""
   bottle :unneeded
 
