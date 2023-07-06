@@ -1,9 +1,7 @@
-# Miles Luders HomeBrew Tap
+# HomeBrew Tap
 
-## How do I install these formulae?
-`brew install mluders/brew/<formula>`
+[smartfix](https://github.com/mluders/smartfix) - Intelligent commit squasher
 
-Or `brew tap mluders/brew` and then `brew install <formula>`.
-
-## Documentation
-`brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
+```
+brew install mluders/brew/smartfix
+```
